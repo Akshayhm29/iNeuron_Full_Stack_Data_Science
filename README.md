@@ -1,3 +1,7 @@
 # Inueron_Full_Stack_Data_Science
 
-Basic Python
+Python Assignments
+
+Python Basic(25/25)
+
+Python Advanced
